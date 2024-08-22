@@ -16,6 +16,5 @@
         username="senac" password="omwXeKlhsBLtrdHnixMvriC0dWGtMbuo"
         driverClassName="org.postgresql.Driver"
         url="jdbc:postgresql:/dpg-cr3ibfd6l47c73a5blv0-a.oregon-postgres.render.com:5432/exemplos_rj04"
-        
     />
 </Context>
